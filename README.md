@@ -6,6 +6,7 @@
 [![Debian](https://img.shields.io/badge/Debian-12-red.svg)](https://www.debian.org/)
 [![Ollama](https://img.shields.io/badge/Ollama-Latest-green.svg)](https://ollama.ai/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+<img width="1536" height="1024" alt="rag-debian-nixos-hero" src="https://github.com/user-attachments/assets/988ed6df-0827-4042-a0c0-61ef70cd6fda" />
 
 ---
 
@@ -91,7 +92,7 @@ curl -sSL https://raw.githubusercontent.com/dravitch/aurora-rag-stack/main/nixos
 👉 [**Debian 12 Installation Guide**](debian/README.md)
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/dravitch/aurora-rag-stack/main/debian/aurora-rag-install-debian12.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/dravitch/aurora-rag-stack/main/debian/install.sh | sudo bash
 ```
 
 ---
